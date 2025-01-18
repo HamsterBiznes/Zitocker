@@ -1,0 +1,3 @@
+for ZitockerVS create folder .vs
+
+for " Zitocker.csproj.dtbcache.json " create folder .vs in directory " Zitocker "
