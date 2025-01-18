@@ -1,0 +1,12 @@
+C:\Users\gaype\source\repos\Zitocker\Zitocker\bin\Debug\Zitocker.exe.config
+C:\Users\gaype\source\repos\Zitocker\Zitocker\bin\Debug\Zitocker.exe
+C:\Users\gaype\source\repos\Zitocker\Zitocker\bin\Debug\Zitocker.pdb
+C:\Users\gaype\source\repos\Zitocker\Zitocker\bin\Debug\ForlornApi.dll
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.csproj.AssemblyReference.cache
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.Form1.resources
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.Properties.Resources.resources
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.csproj.GenerateResource.cache
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.csproj.CoreCompileInputs.cache
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.csproj.Up2Date
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.exe
+C:\Users\gaype\source\repos\Zitocker\Zitocker\obj\Debug\Zitocker.pdb
